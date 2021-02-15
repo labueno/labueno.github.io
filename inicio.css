@@ -237,8 +237,8 @@
   .u-section-2 .u-custom-html-1 {
     min-height: 62px;
     margin-top: 163px;
-    margin-right: 280px;
-    margin-left: 2px;
+    margin-right: 40px;
+    margin-left: 0;
     width: auto;
   }
 }.u-section-3 {
@@ -587,7 +587,6 @@
   .u-section-5 .u-custom-html-1 {
     margin-right: 176px;
     margin-left: 21px;
-    width: auto;
   }
 }.u-section-6 {
   background-image: none;
